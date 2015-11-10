@@ -10,3 +10,6 @@ vendor/
 puphpet/
 Vagrantfile
 
+# Add the Doctrine files not required else where
+bootstrap.php
+cli-config.php
