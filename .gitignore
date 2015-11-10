@@ -1,0 +1,12 @@
+
+# Ignore the vendor directory
+vendor/
+
+# Ignore the PHPStorm files
+.idea/
+
+# Add the Vagrant stuff
+.vagrant/
+puphpet/
+Vagrantfile
+
